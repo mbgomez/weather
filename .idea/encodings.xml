@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/wipro/weather/data/Country.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/wipro/weather/data/Translations.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/wipro/weather/interfaces/RestCountriesInterface.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/wipro/weather/interfaces/RestWeatherInterface.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/wipro/weather/services/RestCountriesManager.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/wipro/weather/services/RestWeatherManager.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/wipro/weather/views/AutofitRecyclerView.java" charset="ISO-8859-1" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
